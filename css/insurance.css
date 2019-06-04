@@ -1,0 +1,64 @@
+.insurance{
+	border: 1px solid #bec0c8;
+}
+
+.insurance h4{
+	text-align: center;
+}
+
+.insurance .price{
+ text-align: center;
+}
+
+.insurance .price .price-color{
+	color: #0093d0; font-size: 25px;
+}
+
+.register-insurance{
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-decoration: none;
+	color: white;
+	margin: auto;
+	text-align: center;
+	background-color: #0093d0;
+	padding: 10px;
+	border-radius: 5px;
+}
+.limitMax{
+	text-align: center;
+}
+
+.limitMax span{
+	font-size: 12px;
+}
+
+.policy{
+	display: block;
+	background-color: #bec0c8;
+	height: 30px;
+	text-align: center;
+	color: white;
+}
+.chinhsach{
+	border: 1px solid #bec0c8;
+	/* margin-bottom: 10px; */
+}
+.chinhsach .chinh{
+	margin: auto;
+}
+.chinhsach i{
+color: green;
+}
+.chinhsach span{
+	font-size: 13px;
+}
+.xemdong{
+	display: block;
+	margin: auto;
+	background-color: white;
+	border-radius: 5px;
+	border: 1px solid #bec0c8;
+}
+
